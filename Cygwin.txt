@@ -1,0 +1,6 @@
+cd /cygdrive/c/Users/hra/workspace/OODS-Regression/
+
+
+ECMS is on V2
+OODS is on master
+API is on master
